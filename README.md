@@ -1,7 +1,7 @@
 ## Movie_recommender_system using tmdb datasets
 A content based movie recommender system using cosine similarity
 
-#Usage
+# Usage
 Select a movie from the dropdown menu.
 Click the "Recommend" button to get a list of recommended movies.
 View the recommended movies and their posters in a grid layout.
@@ -10,7 +10,7 @@ The recommender system is based on a content-based filtering model, where movies
 
 The model uses a CountVectorizer for feature extraction and computes cosine similarity for movie recommendations.
 
-#Data Sources
+# Data Sources
 TMDB 5000 Movies Dataset
 TMDB 5000 Credits Dataset
 Acknowledgments
